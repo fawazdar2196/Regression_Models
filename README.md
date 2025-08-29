@@ -36,5 +36,5 @@ The goal is to compare how different regression models perform on the same datas
 ## 🚀 Installation & Setup
 ```bash
 # 1) Clone the repository
-git clone https://github.com/\fawazdar2196/regression-models.git
+git clone https://github.com/fawazdar2196/regression-models.git
 cd regression-mod
